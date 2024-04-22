@@ -18,7 +18,7 @@ This file showcases the training code for the two tranformer embedding based bin
 
 ### [ModelEvaluation.ipynb](https://github.com/Surfytom/AppliedAISentimentAnalysis/blob/main/ModelTraining.ipynb)
 
-This file runs through a few graphs displaying the performance of the two binary classifyer models. I mainly focus on the loss of the models to evaluate performance. Please read the [Final Project PDF Paper]() which has a section on hyper-parameter tuning and evaluation of the models.
+This file runs through a few graphs displaying the performance of the two binary classifyer models. I mainly focus on the loss of the models to evaluate performance. Please read the [Final Project PDF Paper](https://github.com/Surfytom/AppliedAISentimentAnalysis/blob/main/FINAL%20PROJECT%20AAI.pdf) which has a section on hyper-parameter tuning and evaluation of the models.
 
 ### Other Files
 
